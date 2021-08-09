@@ -11,8 +11,17 @@ I want to keep learning and my next goal is React js.
 * 🎓 React JS
 
 
+#### Contact me:
 - 🔭 I'm currently working on Boombit Agency, I am interested in web development, Wordpress theme development and Javascript. 
 - 📫 How to reach me: Phone-Number: 📱 +505 86642077 ✉️ Emai: heraldflores95@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style='color: #ffffff;' alt='github' height='40'>](https://github.com/Herald-Flores)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' style='color: #ffffff;' alt='linkedin' height='40'>](https://www.linkedin.com/in/herald-flores95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' style='color: #ffffff;' alt='instagram' height='40'>](https://www.instagram.com/heraldflores95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' style='color: #ffffff;' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/herald95)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Herald-Flores)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/herald-flores95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/heraldflores95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/herald95)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herald-Flores)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/Herald-Flores)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Herald-Flores)  
+
+![Profile views](https://gpvc.arturio.dev/Herald-Flores)  
