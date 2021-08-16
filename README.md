@@ -16,7 +16,7 @@ I want to keep learning and my next goal is React js.
 - 📫 How to reach me: Phone-Number: 📱 +505 86642077 ✉️ Emai: heraldflores95@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Herald-Flores)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/herald-flores95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/heraldflores95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/herald95)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Herald-Flores)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/herald-flores/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/heraldflores95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/herald95)  
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Herald-Flores)  
