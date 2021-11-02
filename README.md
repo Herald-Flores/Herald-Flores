@@ -1,4 +1,4 @@
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGTF3Oo_NseCQ/profile-displaybackgroundimage-shrink_350_1400/0/1628464769038?e=1634169600&v=beta&t=U9F0cvuxYL9YEWmXytB4awL1ouXOniTqIba4pT_C5EE)
+![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEAMUNZ4yQEwA/profile-displaybackgroundimage-shrink_350_1400/0/1633404288561?e=1641427200&v=beta&t=zd3bSc07PwVzw2UxoX9-oNT4e7QTsXSbae0I_cigjJY)
 <h3> Hi there < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm a Herald Flores</h3>
 
 #### I'm a Web Developer
