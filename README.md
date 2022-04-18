@@ -50,12 +50,4 @@ Highly motivated fullstack developer and a person who's seeking for his new oppo
 <a href="http://www.github.com/Herald-Flores"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Herald-Flores&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Herald-Flores"><img src="https://activity-graph.herokuapp.com/graph?username=Herald-Flores&bg_color=0f172a&color=ffffff&line=22c55e&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Herald-Flores/promo-bismarck" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Herald-Flores&repo=promo-bismarck&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Herald-Flores/dent7-landing" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Herald-Flores&repo=dent7-landing&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Herald-Flores/Landing-Liches" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Herald-Flores&repo=Landing-Liches&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
-                    
+                  
