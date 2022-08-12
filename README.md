@@ -1,4 +1,4 @@
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQF0K8yz-jWEuw/profile-displaybackgroundimage-shrink_200_800/0/1639751328261?e=1655942400&v=beta&t=cs5C_G8hf_b-Dl9GQKEjPR1DP_KSxJnrGZEn2VjSgWE)
+![Web Developer](https://github.com/Herald-Flores/Herald-Flores/blob/dev/herald-flores.jpg)
 
 Hi 👋 My name is Herald Flores
 ==============================
