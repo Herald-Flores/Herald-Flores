@@ -42,13 +42,6 @@ Highly motivated fullstack developer and a person who's seeking for his new oppo
 
 <p align="left"> <a href="https://www.codepen.io/Herald95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/Herald-Flores" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/herald-flores-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Herald-Flores"><img src="https://github-readme-stats.vercel.app/api?username=Herald-Flores&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Herald-Flores's GitHub stats" /></a>
-
-<a href="http://www.github.com/Herald-Flores"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Herald-Flores&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Herald-Flores"><img src="https://activity-graph.herokuapp.com/graph?username=Herald-Flores&bg_color=0f172a&color=ffffff&line=22c55e&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
                   
