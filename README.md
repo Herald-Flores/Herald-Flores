@@ -1,7 +1,5 @@
 ## Hi everyone 👋 Herald Flores here!
 
-======================================
-
 ![Web Developer](./assets/herald-flores-banner.jpg)
 
 ### Web Developer
@@ -15,12 +13,13 @@ out high impact and high performance projects.
 <img align="right" alt="Herald Flores" src="./assets/herald-flores.png" width="240px" />
 
 <br />
-#### What I'm currently doing
-- 🚀  I'm working at a [Boombit Agency](http://boombit.agency)
-- 👨‍💻 Working with WordPress & JavaScript
-- 🤝 I'm collaborating in freelance projects.
-- :octocat:  Learning React, Next JS, Node JS & ExpressJS
-- 🌍  I'm based in Nicaragua
+
+###### What I'm currently doing
+- 🚀  I'm working at a [Boombit Agency](http://boombit.agency)<br />
+- 👨‍💻 Working with WordPress & JavaScript <br />
+- 🤝 I'm collaborating in freelance projects. <br />
+- :octocat:  Learning React, Next JS, Node JS & ExpressJS <br />
+- 🌍  I'm based in Nicaragua 
 
 <br/>
 
