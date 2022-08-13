@@ -14,12 +14,13 @@ out high impact and high performance projects.
 
 <br />
 
-###### What I'm currently doing
+#### What I'm currently doing
+
 - 🚀  I'm working at a [Boombit Agency](http://boombit.agency)<br />
 - 👨‍💻 Working with WordPress & JavaScript <br />
 - 🤝 I'm collaborating in freelance projects. <br />
 - :octocat:  Learning React, Next JS, Node JS & ExpressJS <br />
-- 🌍  I'm based in Nicaragua 
+- 🌍  I'm based in Nicaragua
 
 <br/>
 
@@ -38,7 +39,7 @@ out high impact and high performance projects.
   </a>
 </p>
 
-#### Skills:
+### Skills:
 
 <br />
 <p align="left">
