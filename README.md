@@ -10,7 +10,7 @@ interfaces using best practices and the most current web technologies available.
 I like to be constantly learning with skills to adapt to customer needs to carry
 out high impact and high performance projects.
 
-<img align="right" alt="Herald Flores" src="./assets/herald-flores.png" width="260px" />
+<img align="right" alt="Herald Flores" src="./assets/herald-flores.png" width="300px" />
 
 <br />
 
