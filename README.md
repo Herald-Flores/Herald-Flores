@@ -2,6 +2,8 @@
 
 ![Web Developer](./assets/herald-flores-banner.jpg)
 
+[![@heraldfloresdev's Holopin board](https://holopin.me/heraldfloresdev)](https://holopin.io/@heraldfloresdev)
+
 ### Web Developer
 
 Full stack web developer, motivated to build amazing products and user
@@ -47,5 +49,3 @@ out high impact and high performance projects.
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,webpack,react,nextjs,nodejs,express,php,wordpress,tailwindcss,bootstrap,git,mongodb,mysql,docker,heroku,netlify,figma&theme=dark&perline=7" />
   </a>
 </p>
-
-[![@heraldfloresdev's Holopin board](https://holopin.me/heraldfloresdev)](https://holopin.io/@heraldfloresdev)
