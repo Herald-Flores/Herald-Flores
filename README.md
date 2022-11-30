@@ -1,7 +1,5 @@
 ## Hi everyone 👋 Herald Flores here!
 
-![Web Developer](./assets/herald-flores-banner.jpg)
-
 [![@heraldfloresdev's Holopin board](https://holopin.me/heraldfloresdev)](https://holopin.io/@heraldfloresdev)
 
 ### Web Developer
@@ -18,7 +16,7 @@ out high impact and high performance projects.
 
 #### What I'm currently doing
 
-- 🚀  I'm working at a [Boombit Agency](http://boombit.agency)<br />
+- 🚀  I'm working at [Boombit Agency](http://boombit.agency)<br />
 - 👨‍💻 Working with WordPress & JavaScript <br />
 - 🤝 I'm collaborating in freelance projects. <br />
 - :octocat:  Learning React, Next JS, Node JS & ExpressJS <br />
@@ -41,7 +39,7 @@ out high impact and high performance projects.
   </a>
 </p>
 
-### Skills:
+### Stacks of interest to me:
 
 <br />
 <p align="left">
