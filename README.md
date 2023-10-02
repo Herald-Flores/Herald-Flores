@@ -44,6 +44,6 @@ out high impact and high performance projects.
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,vite,react,nextjs,nodejs,express,php,wordpress,tailwindcss,bootstrap,git,mongodb,mysql,netlify,figma&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript, astro,vite,react,nextjs,nodejs, typescript,express,php,wordpress,tailwindcss,bootstrap,git,mongodb,mysql,netlify,figma&theme=dark&perline=7" />
   </a>
 </p>
