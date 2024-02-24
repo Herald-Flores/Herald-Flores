@@ -10,17 +10,19 @@ interfaces using best practices and the most current web technologies available.
 I like to be constantly learning with skills to adapt to customer needs to carry
 out high impact and high performance projects.
 
-<img align="right" alt="Herald Flores" src="./assets/herald-flores.png" width="300px" />
+<img align="right" alt="Herald Flores" src="./assets/hd-2024.jpg" width="300px" />
 
 <br />
 
 #### What I'm currently doing
 
-- 🚀  I'm working at [Boombit Agency](http://boombit.agency)<br />
-- 👨‍💻 Working with WordPress & JavaScript <br />
-- 🤝 I'm collaborating in freelance projects. <br />
-- :octocat:  Learning React, Next JS, Node JS & ExpressJS <br />
-- 🌍  I'm based in Nicaragua
+- 🗺️ I'm based in Estelí, Nicaragua
+- 🚀 Currently working at [Boombit Agency](http://boombit.agency) as a Tech
+  Recruiter and Developer<br />
+- 👨‍💻 Working with WordPress, Next, Strapi CMS & JavaScript <br />
+- 🤝I have worked on freelance projects, mainly focused on WordPress and
+  Frontend. <br />
+- :octocat: Improving my skills in: React, Next JS, Node JS & ExpressJS <br />
 
 <br/>
 
