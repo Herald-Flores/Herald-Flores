@@ -57,6 +57,6 @@ WordPress topics with WordCamp Nicaragua Community.
 
 <p align="left" width="100%">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,ts,react,nextjs,wordpress,astro,html,css,sass,nodejs,express,vite,graphql,postman,yarn,pnpm,tailwindcss,bootstrap,git,github,vscode,mongodb,mysql,vercel,netlify,figma,notion&theme=dark&perline=7" />
+    <img width="100%" src="https://skillicons.dev/icons?i=php,javascript,ts,react,nextjs,wordpress,astro,html,css,sass,nodejs,express,vite,graphql,postman,yarn,pnpm,tailwindcss,bootstrap,git,github,vscode,mongodb,mysql,vercel,netlify,figma,notion&theme=dark&perline=14" />
   </a>
 </p>
